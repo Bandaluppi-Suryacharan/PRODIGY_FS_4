@@ -44,23 +44,6 @@ Welcome to **ChatWave**, a full-stack real-time chat application built using the
 
 ---
 
-## 🧭 Project Structure
-
-PRODIGY_FS_4/
-├── backend/
-│ ├── src/
-│ │ ├── controllers/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ └── index.js
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── store/
-│ │ └── main.jsx
-
----
 
 ## 🔐 Authentication Flow
 
